@@ -55,5 +55,16 @@ kanban = Projects -> Create project -> Kanban -> Use template -> Company-managed
 <img src = "img/05.png" width = 100%>
 <img src = "img/06.png" width = 100%>
 
+Запускаем спринт, проводим все задачи до статуса **Closed**
+
 <img src = "img/07.png" width = 100%>
+
 <img src = "img/08.png" width = 100%>
+
+Все задачи успешно прошли по статусам.
+
+Схемы workflow находятся в репозитории: 
+
+[bug]()
+
+[other]()
