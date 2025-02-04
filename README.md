@@ -48,3 +48,12 @@ kanban = Projects -> Create project -> Kanban -> Use template -> Company-managed
 
 <img src = "img/04.png" width = 100%>
 
+Пробуем провести все задачи до статуса **Done**:
+
+Создаем задачи с типами bug, task, epic. Привязываем к epic созданные task. 
+
+<img src = "img/05.png" width = 100%>
+<img src = "img/06.png" width = 100%>
+
+<img src = "img/07.png" width = 100%>
+<img src = "img/08.png" width = 100%>
