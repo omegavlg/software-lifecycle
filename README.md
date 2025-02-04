@@ -65,6 +65,6 @@ kanban = Projects -> Create project -> Kanban -> Use template -> Company-managed
 
 Схемы workflow находятся в репозитории: 
 
-[bug](https://github.com/omegavlg/software-lifecycle/blob/main/bug.xml)
+[bug](https://github.com/omegavlg/software-lifecycle/blob/main/xml/bug.xml)
 
-[other](https://github.com/omegavlg/software-lifecycle/blob/main/other.xml)
+[other](https://github.com/omegavlg/software-lifecycle/blob/main/xml/other.xml)
